@@ -1,6 +1,7 @@
 package model;
 
-public enum Potential {
+public enum Potential
+{
 	Positive,
 	Neutral,
 	Negative,
